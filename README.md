@@ -12,4 +12,4 @@ Ouvre `index.html` dans un navigateur, ou active GitHub Pages :
 2. Source : Deploy from a branch
 3. Branch : `main` / `/ (root)`
 
-URL attendue : https://ibratox.github.io/thoth-pec-01/
+URL attendue : https://[ibratox.github.io/thoth-pec-01/](https://ibratox.github.io/)
